@@ -1,4 +1,4 @@
-package toong.vn.androidgson;
+package toong.vn.androidgson.model;
 
 import com.google.gson.annotations.Expose;
 

@@ -7,6 +7,8 @@ import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
+import toong.vn.androidgson.model.Person;
+
 public class JavaObjectToJsonObjectActivity extends AppCompatActivity {
     private String TAG = getClass().getSimpleName();
 
